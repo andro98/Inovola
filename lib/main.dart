@@ -1,5 +1,7 @@
 import 'package:flutter/material.dart';
+import 'package:inovola/inovola/controller/provider/course_provider.dart';
 import 'package:inovola/inovola/view/pages/course_page.dart';
+import 'package:provider/provider.dart';
 
 void main() {
   runApp(MyApp());
@@ -12,10 +14,10 @@ class MyApp extends StatelessWidget {
       title: 'Inovola',
       debugShowCheckedModeBanner: false,
       theme: ThemeData(
-      primarySwatch: Colors.blue,
         visualDensity: VisualDensity.adaptivePlatformDensity,
       ),
-      home:CoursePage(),
+      home: ChangeNotifierProvider(
+          create: (_) => CourseProvider(), child: CoursePage()),
     );
   }
 }
