@@ -7,12 +7,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6c08d4f1-b2d1-4f99-b23e-23bb594011d9" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.flutter-plugins-dependencies" beforeDir="false" afterPath="$PROJECT_DIR$/.flutter-plugins-dependencies" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/inovola/model/core/course_model.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/inovola/model/core/course_model.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/inovola/model/helper/course_helper.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/inovola/model/helper/course_helper.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/inovola/model/services/course_service.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/inovola/model/services/course_service.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/inovola/view/pages/course_page.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/inovola/view/pages/course_page.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/inovola/controller/provider/course_provider.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/inovola/controller/provider/course_provider.dart" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
